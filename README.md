@@ -2,7 +2,7 @@
 
 CurveEditor_rev5 is a 2D editor for points and straight-line or spline segments. It includes Python source and sample files.
 
-![CurveEditor_rev5 editing window](images/CurveEditor_rev5_main.png)
+![CurveEditor_rev5 editing window](CurveEditor_rev5_main.png)
 
 ## Download
 
